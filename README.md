@@ -1,6 +1,11 @@
 # Event Codelab
 
-Welcome to my Adobe I/O event SDK!
+This is the source code of [codelabs-custom-event](https://github.com/AdobeDocs/adobeio-codelabs-custom-event)
+
+This repo is for register your app as event provider, follow [here](https://github.com/AdobeDocs/adobeio-codelab-event-provider-registration)
+
+Custom event demo code can be found [here](https://github.com/AdobeDocs/adobeio-codelab-customevent-demo)
+ 
 
 ## Setup
 
