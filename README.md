@@ -2,8 +2,8 @@
 
 This is part 1 source code of [codelabs-custom-event](https://github.com/AdobeDocs/adobeio-codelabs-custom-event):
 
-* This repo is for register your app as event provider, follow [here](https://github.com/AdobeDocs/adobeio-codelab-event-provider-registration)
-* Custom event demo code can be found [here](https://github.com/AdobeDocs/adobeio-codelab-customevent-demo)
+* Step 1: use this repo to register your app as event provider
+* Step 2: Project firefly app custom event codelab code can be found [here](https://github.com/AdobeDocs/adobeio-codelab-customevent-demo)
  
 
 ## Setup
